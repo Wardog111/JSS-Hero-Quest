@@ -1,7 +1,4 @@
-THIS PROJECT IS DEVELOPED BY 4 AMBITIOUS STUDENTS WHO DON'T KNOW WHAT THEY ARE DOING..YET
-                                          
+This is an interactive 2D Game called JSS Hero Quest, developed using Unity 6000.0.29f1 as a mini project.
 
-This is a simple 2D Role Playing Game.
-Harshith is dumb btw
 
-istg 💀
+by Akarsh Shankar, Gokul Dinesh and Siddarth Srivatsa
