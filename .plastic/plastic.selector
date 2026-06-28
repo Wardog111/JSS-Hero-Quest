@@ -1,0 +1,4 @@
+repository "unity_mini_project_v3_nov1 2024-12-05_16-13-39/unity_mini_project_v3_nov1@13469735232886@cloud"
+  path "/"
+    br "/main"
+    co "/main"
